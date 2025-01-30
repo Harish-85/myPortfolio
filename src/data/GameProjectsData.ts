@@ -64,7 +64,7 @@ export default [
     </div>
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "Labyrinth", "img/projects/labyrinth/cover.png", `
+    new ProjectData("project-3", "Labyrinth", "img/projects/labyrinth/cover.jpg", `
     <div class="paragraph">
         <strong>Labyrithn</strong> is a horror metroidvania game made in a week for a college game jam. I worked with a designer and an artist.
         <br/>
