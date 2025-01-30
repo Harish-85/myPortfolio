@@ -116,7 +116,7 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
     </div>
     `, "#e80fb7"),
-    new ProjectData("project-5", "Time Bound", "img/projects/Timebound/img1.png", `
+    new ProjectData("project-5", "Time Bound", "img/projects/Timebound/img2.png", `
     <div class="paragraph">
         <strong>Time Bound</strong> is a portal inspired puzzle game where you can travel between the past, present and future to solve puzzles. It is made in the Unreal engine.
        
@@ -138,9 +138,8 @@ export default [
     
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="img/projects/Timebound/img1.png" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="img/projects/Timebound/img2.png" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="img/projects/Timebound/img3.png" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="img/projects/Timebound/img4.png" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Timebound/img2.png" alt="Timebound image 2" />
+        <img class="pc-screenshot" src="img/projects/Timebound/img3.png" alt="Timebound image 3" />
+        <img class="pc-screenshot" src="img/projects/Timebound/img4.png" alt="Timebound image 4" />
     </div>`, "#e48246")
 ];
