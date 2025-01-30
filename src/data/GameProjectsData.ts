@@ -32,7 +32,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/battlemayhem/arena2.jpg" alt="Poster image" />
         <img class="pc-screenshot" src="img/projects/battlemayhem/tornado.png" alt="Poster image" />
     </div>
-    `, "#23bd69", true),
+    `, "#04103a", true),
     new ProjectData("project-2", "Neon Rider", "img/projects/NeonRider/img1.png", `
     <div class="paragraph">
         <strong>Neon Rider</strong> is a small game that was made in 48 hours for a game jam. Here i was experimenting with vfx graph and made a audio visualizer that reacts to the music in the background.
@@ -67,7 +67,7 @@ export default [
     new ProjectData("project-3", "Labyrinth", "img/projects/labyrinth/img1.jpg", `
     <div class="paragraph">
         <strong>Labyrithn</strong> is a horror metroidvania game made in a week for a college game jam. I worked with a designer and an artist.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
+        <br/>
     </div>
 
     <div class="paragraph">
@@ -96,12 +96,12 @@ export default [
     </div>
     
     <div class="paragraph">
-        Main features :
+        My Contributions:
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
+        <li>Created an easy-to-use Time Travel System</li>
+        <li>Implemented easily extendable interactables like buttons, levers etc</li>
         <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Made a Transition Effect</li>
         </ul>
     </div>
 
@@ -116,32 +116,30 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
     </div>
     `, "#e80fb7"),
-    new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
+    new ProjectData("project-5", "Time Bound", "img/projects/Timebound/img1.png", `
     <div class="paragraph">
-        <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
+        <strong>Time Bound</strong> is a portal inspired puzzle game where you can travel between the past, present and future to solve puzzles. It is made in the Unreal engine.
+       
     </div>
     
     <div class="paragraph">
-        Main features :
+        My Contributions:
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
+        <li>Created an easy-to-use Time Travel System</li>
+        <li>Implemented easily extendable interactables like buttons, levers etc</li>
         <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Made a Transition Effect</li>
         </ul>
     </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
+    
+    <div class = "paragraph center">
+        <iframe frameborder="0" src="https://itch.io/embed/3101915?dark=true" width="552" height="167"><a href="https://saji002.itch.io/time-bound">Time Bound by 1ime002, Unknown_Coder, August</a></iframe>
+   </div>
+    
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Timebound/img1.png" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Timebound/img1.png" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Timebound/img1.png" alt="Cloud Drew Land Screenshot" />
     </div>`, "#e48246")
 ];
