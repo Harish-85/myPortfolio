@@ -64,7 +64,7 @@ export default [
     </div>
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "Labyrinth", "img/projects/labyrinth/img1.jpg", `
+    new ProjectData("project-3", "Labyrinth", "img/projects/labyrinth/cover.png", `
     <div class="paragraph">
         <strong>Labyrithn</strong> is a horror metroidvania game made in a week for a college game jam. I worked with a designer and an artist.
         <br/>
@@ -139,7 +139,8 @@ export default [
 
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/Timebound/img1.png" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="img/projects/Timebound/img1.png" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="img/projects/Timebound/img1.png" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Timebound/img2.png" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Timebound/img3.png" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Timebound/img4.png" alt="Cloud Drew Land Screenshot" />
     </div>`, "#e48246")
 ];

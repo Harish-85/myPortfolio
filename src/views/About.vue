@@ -5,7 +5,7 @@
     <div class="paragraph">
       <div>
         I'm <strong>Harish N</strong>, a Game developer with expertise in Unity C# Programming, Shaders, and Realtime VFX.<br/>
-        I have been working with game development for the past 4 years and have worked on multiple projects in the past.
+        I have been working in game development for the past 4 years and have worked on multiple projects in the past.
       </div>
 
       <div style="margin-top: 20px;">I've worked on several  <router-link to="/game-projects">games </router-link> and <RouterLink to="/other-projects"> mini projects </RouterLink></div>
