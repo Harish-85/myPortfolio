@@ -89,33 +89,23 @@ export default [
     <iframe frameborder="0" src="https://itch.io/embed/2165078" width="552" height="167"><a href="https://unknown-coder.itch.io/labirynth">Labyrinth by Unknown_Coder, boncy100, soom69</a></iframe>
 </div>
     `, "#383838"),
-    new ProjectData("project-4", "Neon Ballz", "img/projects/project-4-icon.png", `
+    new ProjectData("project-4", "Neon Ballz", "img/projects/NeonBallz/img3.png", `
     <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+    <strong>Neon Ballz</strong> is a simple yet fun endless runner made in 48 hours.
     </div>
     
-    <div class="paragraph">
-        My Contributions:
-        <ul>
-        <li>Created an easy-to-use Time Travel System</li>
-        <li>Implemented easily extendable interactables like buttons, levers etc</li>
-        <li>More awesome stuff</li>
-        <li>Made a Transition Effect</li>
-        </ul>
+    <div class = "paragraph center">
+    <iframe frameborder="0" src="https://itch.io/embed/2689547?bg_color=1b1b1b&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=333333" width="552" height="167"><a href="https://unknown-coder.itch.io/neon-ballz">NEON BALLZ by Unknown_Coder, TheUnknownAX</a></iframe>
     </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        </div>
-    </div>
+    
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <img class="screenshot" src="img/projects/NeonBallz/img1.png" alt="neon ballz screen shot 1" />
+        <img class="screenshot" src="img/projects/NeonBallz/img2.png" alt="neon ballz screen shot 1" />
+        <img class="screenshot" src="img/projects/NeonBallz/img3.png" alt="neon ballz screen shot 1" />
+        
     </div>
-    `, "#e80fb7"),
+    `, "#af0a88"),
     new ProjectData("project-5", "Time Bound", "img/projects/Timebound/img2.png", `
     <div class="paragraph">
         <strong>Time Bound</strong> is a portal inspired puzzle game where you can travel between the past, present and future to solve puzzles. It is made in the Unreal engine.

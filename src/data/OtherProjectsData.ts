@@ -43,25 +43,19 @@ export default [
            
 
             `),
-    new ProjectData("project-9", "Nikolable", "img/projects/project-9-icon.png", `
-     <div class="paragraph">
-                <strong>Nikolable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@goumbik">Lukas</a>.
-            </div>
+    new ProjectData("project-9", "Fluid Sim", "img/projects/fluidSim/fscover.png", `
+    
+        
+        <div class="paragraph">
+        <strong>Fluid Sim</strong> is a dam break simulation that I made to learn about fluid simulations. This uses a particle based approach and all the particles velocities are calculated via a compute shaderdiv>
+        
+        
+        <div class="paragraph center">
+        <video width="50%" height="50%" controls>
+            <source src = "img/projects/fluidSim/fluid sim.mp4" type="video/mp4">
+        </div>
+    
+       
 
-            <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>`),
+          `),
 ];
