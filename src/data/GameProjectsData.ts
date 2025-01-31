@@ -9,7 +9,7 @@ export default [
     </div>
    
     <div class="paragraph center">
-        <iframe frameborder="0" src="https://itch.io/embed/2935303" width="552" height="167"><a href="https://unknown-coder.itch.io/battle-mayhem">Battle MAYHEM by Unknown_Coder, GGgoutham</a></iframe>
+        <iframe frameborder="0" src="https://itch.io/embed/2935303" width="100%" height="167"><a href="https://unknown-coder.itch.io/battle-mayhem">Battle MAYHEM by Unknown_Coder, GGgoutham</a></iframe>
     </div>
   
 
@@ -60,7 +60,7 @@ export default [
     <img class="pc-screenshot" src="img/projects/NeonRider/img1.png" alt="Screenshot of game 1" />
     <img class="pc-screenshot" src="img/projects/NeonRider/img2.png" alt="Screenshot of game 1" />
      <div >
-        <iframe frameborder="0" src="https://itch.io/embed/2731030" width="552" height="167"><a href="https://unknown-coder.itch.io/neon-racer">Neon Rider by Unknown_Coder</a></iframe>
+        <iframe frameborder="0" src="https://itch.io/embed/2731030" width="100%"><a href="https://unknown-coder.itch.io/neon-racer">Neon Rider by Unknown_Coder</a></iframe>
     </div>
     </div>
     `, "#000000"),
@@ -86,7 +86,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/Labyrinth/final.jpg" alt="Screenshot" />
     </div>
     <div class="paragraph center">
-    <iframe frameborder="0" src="https://itch.io/embed/2165078" width="552" height="167"><a href="https://unknown-coder.itch.io/labirynth">Labyrinth by Unknown_Coder, boncy100, soom69</a></iframe>
+    <iframe frameborder="0" src="https://itch.io/embed/2165078" width="100%" height="167"><a href="https://unknown-coder.itch.io/labirynth">Labyrinth by Unknown_Coder, boncy100, soom69</a></iframe>
 </div>
     `, "#000000"),
     new ProjectData("project-4", "Neon Ballz", "img/projects/NeonBallz/img3.png", `
@@ -123,7 +123,7 @@ export default [
     </div>
     
     <div class = "paragraph center">
-        <iframe frameborder="0" src="https://itch.io/embed/3101915?dark=true" width="552" height="167"><a href="https://saji002.itch.io/time-bound">Time Bound by 1ime002, Unknown_Coder, August</a></iframe>
+        <iframe frameborder="0" src="https://itch.io/embed/3101915?dark=true" width="100%" height="167"><a href="https://saji002.itch.io/time-bound">Time Bound by 1ime002, Unknown_Coder, August</a></iframe>
    </div>
     
 
