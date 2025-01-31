@@ -9,7 +9,7 @@
       </div>
 
       <div style="margin-top: 20px;">So far I've worked on 3 internships and several personal projects</div>
-      <div style="margin-top: 20px;"><router-link to="/contact">CONTACT ME  </router-link></div>
+      <div style="margin-top: 20px;"><router-link to="/contact"><h3>CONTACT ME</h3>  </router-link></div>
 
 
     </div>
