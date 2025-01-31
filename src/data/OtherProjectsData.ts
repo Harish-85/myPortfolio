@@ -47,7 +47,7 @@ export default [
     
         
         <div class="paragraph">
-        <strong>Fluid Sim</strong> is a dam break simulation that I made to learn about fluid simulations. This uses a particle based approach and all the particles velocities are calculated via a compute shaderdiv>
+        <strong>Fluid Sim</strong> is a dam break simulation that I made to learn about fluid simulations. This uses a particle based approach and all the particles velocities are calculated via a compute shader.
         
         
         <div class="paragraph center">
@@ -55,6 +55,23 @@ export default [
             <source src = "img/projects/fluidSim/fluid sim.mp4" type="video/mp4">
         </div>
     
+       
+
+          `), new ProjectData("project-10", "ASCII Renderer", "img/projects/Ascii/img1.png", `
+    
+        
+        <div class="paragraph">
+        <strong>ASCII Renderer</strong> is a fully gpu based image effect that converts the image into ascii characters.
+        
+        <div class="paragraph">
+            <img class="pc-screenshot" src="img/projects/Ascii/img1.png" alt="Ascii image screenshot" />
+            <img class="pc-screenshot" src="img/projects/Ascii/img2.png" alt="Ascii image screenshot" />
+                
+            <div class="paragraph center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/l5-mJ66fJyw?si=42Wq-VSFQS96eMpu&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+        
+      
        
 
           `),

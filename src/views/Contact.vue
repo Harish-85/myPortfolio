@@ -3,8 +3,8 @@
     
     <h1>Let's get in touch</h1>
 
-    <div style="margin-bottom:40px;margin-top:-50px "> Feel free to contact me about any opportunity, or just to chat about Unity/Graphics programming .</div>
-    <div style="margin-left: -45px">
+    <div style="margin-bottom:40px;margin-top:-30px "> Feel free to contact me about any opportunity, or just to chat about Unity/Graphics programming .</div>
+    <div style="padding-left: 0px">
 
     <ul>
       <li>
