@@ -108,17 +108,17 @@ export default [
     `, "#000000"),
     new ProjectData("project-5", "Time Bound", "img/projects/Timebound/img2.png", `
     <div class="paragraph">
-        <strong>Time Bound</strong> is a portal inspired puzzle game where you can travel between the past, present and future to solve puzzles. It is made in the Unreal engine.
+        <strong>Time Bound</strong> is a portal inspired puzzle game where you can travel between the past, present and future to solve puzzles. It is made in the Unreal engine by a team of 3.
        
     </div>
     
     <div class="paragraph">
         My Contributions:
         <ul>
-        <li>Created an easy-to-use Time Travel System</li>
+        <li>Created easy-to-use Time Travel System</li>
         <li>Implemented easily extendable interactables like buttons, levers etc</li>
-        <li>More awesome stuff</li>
-        <li>Made a Transition Effect</li>
+        <li>Made a teleportation transition Effect</li>
+        <li>and more</li>
         </ul>
     </div>
     

@@ -8,7 +8,8 @@
         I have been working in game development for the past 4 years and have worked on multiple projects in the past.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on several  <router-link to="/game-projects">games </router-link> and <RouterLink to="/other-projects"> mini projects </RouterLink></div>
+      <div style="margin-top: 20px;">So far I've worked on 3 internships and several personal projects</div>
+      <div style="margin-top: 20px;"><router-link to="/contact">CONTACT ME  </router-link></div>
 
 
     </div>
