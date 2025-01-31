@@ -3,7 +3,8 @@
     
     <h1>Let's get in touch</h1>
 
-    <div style="margin-bottom:40px;"> Feel free to contact me about any opportunity, or just to chat about Unity/Graphics programming .</div>
+    <div style="margin-bottom:40px;margin-top:-50px "> Feel free to contact me about any opportunity, or just to chat about Unity/Graphics programming .</div>
+    <div style="margin-left: -45px">
 
     <ul>
       <li>
@@ -27,6 +28,7 @@
         <a href="https://unknown-coder.itch.io/" target="_blank">unknown-coder.itch.io</a>
       </li>
     </ul>
+    </div>
 
   </div>
 </template>

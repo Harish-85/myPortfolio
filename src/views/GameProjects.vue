@@ -1,24 +1,24 @@
 <template>
   <div>
-    <div style="margin-bottom: -50px">
+    <div style="margin-bottom: -75px">
       <h1>GAME PROJECTS</h1>
     </div>
 
-    <div style="margin-bottom: 30px;">
+    <div style="margin-bottom: 5px; margin-top: -0px">
       These are some of the games I've worked on in the past.
     </div>
 
     <ProjectsList v-bind:projects="projects" />
 
-    <div style="margin-top: 20px;">
+    <div style="margin-top: 0px;">
       There is more to see on <a target="_blank" href="https://unknown-coder.itch.io/">itch.io</a>
     </div>
 
-    <div style="margin-bottom: -50px">
+    <div style="margin-bottom: -75px ;margin-top: 50px" >
     <h1>MINI PROJECTS</h1>
     </div>
 
-    <div style="margin-bottom: 30px;">
+    <div style="margin-bottom: 5px;">
       Here are some mechanics and small projects I've worked on that are not complete games.
     </div>
     <ProjectsList v-bind:projects="otherProjects" />
