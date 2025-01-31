@@ -11,7 +11,13 @@
             </div>
             <div class="title-bar" :style="{ 'background-color': project.accentColor + 'DD' }">
                 <div class="title-text">
-                  {{ project.name }}
+                  {{ project.name}}
+                </div>
+
+                <div class="icon">
+
+                  <img :src="project.engineIcon" style="height: 20px; width: 20px; padding: 5px;" alt="test"/>
+
                 </div>
               </div>
           </div>
@@ -96,11 +102,21 @@ filter: brightness(120%);
   position: absolute;
   bottom: 0px;
   width: 100%;
+  height: 50px;
   background-color: #222222;
 }
 
-.title-text {
+.icon {
+  float: right;
   padding: 10px;
+  
+}
+
+.title-text {
+  float : left;
+
+  padding: 10px;
+
 }
 
 @media only screen and (min-width: 620px){

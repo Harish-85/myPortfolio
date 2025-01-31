@@ -32,7 +32,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/battlemayhem/arena2.jpg" alt="Poster image" />
         <img class="pc-screenshot" src="img/projects/battlemayhem/tornado.png" alt="Poster image" />
     </div>
-    `, "#04103a", true),
+    `, "#000000", true),
     new ProjectData("project-2", "Neon Rider", "img/projects/NeonRider/img1.png", `
     <div class="paragraph">
         <strong>Neon Rider</strong> is a small game that was made in 48 hours for a game jam. Here i was experimenting with vfx graph and made a audio visualizer that reacts to the music in the background.
@@ -63,7 +63,7 @@ export default [
         <iframe frameborder="0" src="https://itch.io/embed/2731030" width="552" height="167"><a href="https://unknown-coder.itch.io/neon-racer">Neon Rider by Unknown_Coder</a></iframe>
     </div>
     </div>
-    `, "#5a78af"),
+    `, "#000000"),
     new ProjectData("project-3", "Labyrinth", "img/projects/Labyrinth/final.jpg", `
     <div class="paragraph">
         <strong>Labyrithn</strong> is a horror metroidvania game made in a week for a college game jam. I worked with a designer and an artist.
@@ -88,7 +88,7 @@ export default [
     <div class="paragraph center">
     <iframe frameborder="0" src="https://itch.io/embed/2165078" width="552" height="167"><a href="https://unknown-coder.itch.io/labirynth">Labyrinth by Unknown_Coder, boncy100, soom69</a></iframe>
 </div>
-    `, "#383838"),
+    `, "#000000"),
     new ProjectData("project-4", "Neon Ballz", "img/projects/NeonBallz/img3.png", `
     <div class="paragraph">
     <strong>Neon Ballz</strong> is a simple yet fun endless runner made in 48 hours.
@@ -105,7 +105,7 @@ export default [
         <img class="screenshot" src="img/projects/NeonBallz/img3.png" alt="neon ballz screen shot 1" />
         
     </div>
-    `, "#af0a88"),
+    `, "#000000"),
     new ProjectData("project-5", "Time Bound", "img/projects/Timebound/img2.png", `
     <div class="paragraph">
         <strong>Time Bound</strong> is a portal inspired puzzle game where you can travel between the past, present and future to solve puzzles. It is made in the Unreal engine.
@@ -131,5 +131,5 @@ export default [
         <img class="pc-screenshot" src="img/projects/Timebound/img2.png" alt="Timebound image 2" />
         <img class="pc-screenshot" src="img/projects/Timebound/img3.png" alt="Timebound image 3" />
         <img class="pc-screenshot" src="img/projects/Timebound/img4.png" alt="Timebound image 4" />
-    </div>`, "#e48246")
+    </div>`, "#000000",false,false,"img/unreallogo.png"),
 ];

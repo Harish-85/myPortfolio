@@ -15,8 +15,8 @@ export default [
           </div>
 
 
-    `, "#c10606", false, false),
-    new ProjectData("project-8", "Car Physics & Car Destruction", "img/projects/thesis/image8.gif", `
+    `, "#000000", false, false),
+    new ProjectData("project-8", "Car Physics & Destruction ", "img/projects/thesis/image8.gif", `
     <div class="paragraph">
                 This is a thesis I wrote on how to make a realtime car destruction system in unity using JOBS system.
                 The car physics system that is used is also a custom wheel collider system that I have created.
