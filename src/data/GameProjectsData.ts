@@ -8,10 +8,7 @@ export default [
      
     </div>
    
-    <div class="paragraph center">
-        <iframe frameborder="0" src="https://itch.io/embed/2935303" width="100%" height="167"><a href="https://unknown-coder.itch.io/battle-mayhem">Battle MAYHEM by Unknown_Coder, GGgoutham</a></iframe>
-    </div>
-  
+    <iframe frameborder="0" src="https://itch.io/embed/2935303?dark=true" width="100%" height="167"><a href="https://unknown-coder.itch.io/battle-mayhem">Battle MAYHEM by Unknown_Coder, GGgoutham</a></iframe>
 
     <div class="paragraph">
         What I worked on:
@@ -60,7 +57,7 @@ export default [
     <img class="pc-screenshot" src="img/projects/NeonRider/img1.png" alt="Screenshot of game 1" />
     <img class="pc-screenshot" src="img/projects/NeonRider/img2.png" alt="Screenshot of game 1" />
      <div >
-        <iframe frameborder="0" src="https://itch.io/embed/2731030" width="100%"><a href="https://unknown-coder.itch.io/neon-racer">Neon Rider by Unknown_Coder</a></iframe>
+        <iframe frameborder="0" src="https://itch.io/embed/2731030?dark=true" width="100%"><a href="https://unknown-coder.itch.io/neon-racer">Neon Rider by Unknown_Coder</a></iframe>
     </div>
     </div>
     `, "#000000"),

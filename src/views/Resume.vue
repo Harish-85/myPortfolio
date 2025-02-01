@@ -19,18 +19,23 @@
     <div style="clear:both"></div>
 
     <div class="full-content">
+
       <strong><h2>Work experience</h2></strong>
+      <ul>
 
-      <h3><strong>Gamestacy</strong> <br><i> Game Developer Intern</i></h3>
+      <li>
+      <h3><strong>GAME DEVELOPER INTERN</strong> <br><i> Gamestacy</i></h3>
       <h4>Nov 2022 - Dec 2022</h4>
-
-      <h3><strong>Qila Games</strong> <br><i> Game Developer Intern</i></h3>
+      </li>
+      <li>
+      <h3><strong>GAME DEVELOPER INTERN</strong> <br><i> Qila games</i></h3>
       <h4>August 2024 - Present</h4>
-
-
-      <h3><strong>Kleanup Games</strong> <br><i> Game Developer</i></h3>
+      </li>
+      <li>
+      <h3><strong>GAME DEVELOPER</strong> <br><i> Kleanup Games</i></h3>
       <h4> November 2024 - Present</h4>
-
+      </li>
+      </ul>
 
       <h2>Skills</h2>
 

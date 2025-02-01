@@ -1,10 +1,13 @@
 <template>
   <div class="header">
     <div class="nav-bar">
+      <b>
+
       <router-link to="/">Portfolio</router-link>
 <!--      <router-link to="/game-projects">Projects</router-link>-->
       <router-link to="/resume">Resume</router-link>
       <router-link to="/contact">Contact</router-link>
+      </b>
     </div>
   </div>
 </template>

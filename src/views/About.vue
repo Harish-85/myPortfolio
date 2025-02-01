@@ -1,10 +1,10 @@
 <template>
   <div style="margin-bottom: 80px;" >
-    <h1>Hello!</h1>
+    <h1>Hello! 👋</h1>
 
     <div class="paragraph">
       <div>
-        I'm <strong>Harish N</strong>, a Game developer with expertise in Unity C# Programming, Shaders, and Realtime VFX.
+        I'm <strong>Harish N</strong>, a Game developer with expertise in <b>Unity C# Programming, Shaders, and Realtime VFX.</b>
         I have been working in game development for the past 4 years and have worked on multiple projects in the past.
       </div>
 

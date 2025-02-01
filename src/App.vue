@@ -63,9 +63,9 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-  color: @textColor;
+  color: #eab2e6;
   text-decoration: none;
-  opacity: 0.5;
+    opacity: .8;
 }
 a:hover, .router-link-exact-active {
   opacity: 1;
