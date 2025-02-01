@@ -4,7 +4,7 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>Harish N</strong>, a Game developer with expertise in Unity C# Programming, Shaders, and Realtime VFX.<br/>
+        I'm <strong>Harish N</strong>, a Game developer with expertise in Unity C# Programming, Shaders, and Realtime VFX.
         I have been working in game development for the past 4 years and have worked on multiple projects in the past.
       </div>
 
@@ -34,7 +34,7 @@
     </div>
 
     <div style="margin-bottom: 50px ;margin-top: 50px" >
-      <h1>MINI PROJECTS</h1>
+      <h1>SYSTEMS</h1>
     </div>
 
     <div style="margin-bottom: 5px;margin-top: -50px">
