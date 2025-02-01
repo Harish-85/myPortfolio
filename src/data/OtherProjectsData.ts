@@ -58,19 +58,23 @@ export default [
     
        
 
-          `), new ProjectData("project-10", "ASCII Renderer","A shader that converts the image into text" ,"img/projects/Ascii/img1.png", `
+          `), new ProjectData("project-10", "ASCII Renderer","A shader that converts the image into text" ,"img/projects/Ascii/cover.png", `
     
         
         <div class="paragraph">
-        <strong>ASCII Renderer</strong> is a fully gpu based image effect that converts the image into ascii characters.
+        <strong>ASCII Renderer</strong> is a fully gpu based image effect that converts the image into ascii characters. This works by first pixelatingn the image and then using a look up texture to find the corresponding ascii character based on luminance.
         
         <div class="paragraph">
+            <div class="paragraph center">
+            <video width="50%" height="50%" controls>
+            <source src = "img/projects/Ascii/vid.mp4" type="video/mp4">
+            </div>
+            <img class="pc-screenshot" src="img/projects/Ascii/cover.png" alt="Ascii image screenshot" />
+            <img class="pc-screenshot" src="img/projects/Ascii/compare.png" alt="Ascii image screenshot" />
             <img class="pc-screenshot" src="img/projects/Ascii/img1.png" alt="Ascii image screenshot" />
             <img class="pc-screenshot" src="img/projects/Ascii/img2.png" alt="Ascii image screenshot" />
                 
-            <div class="paragraph center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/l5-mJ66fJyw?si=42Wq-VSFQS96eMpu&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+            
         
       
        
