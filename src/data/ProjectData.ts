@@ -10,7 +10,7 @@ export default class ProjectData {
     engineIcon: string; // icon of the engine used
     width: number;
     height: number;
-    constructor(id: string, name: string,description: string, iconUrl: string, html: string, accentColor = "#000000", isHigh = false, isWide = false, engineIcon = "img/unitylogo.png", width = 20, height = 20) {
+    constructor(id: string, name: string,description: string, iconUrl: string, html: string, accentColor = "#000000", isHigh = false, isWide = false, engineIcon = "img/unitylogo.png", width = 30, height = 30) {
         this.id = id;
         this.name = name;
         this.htmlDescription = html;
