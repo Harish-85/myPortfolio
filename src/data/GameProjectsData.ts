@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Battle M.A.Y.H.E.M","A couch coop, neon themed, twin stick shooter" ,"img/projects/battlemayhem/battleMayhem.jpg",
+    new ProjectData("project-1", "Battle M.A.Y.H.E.M","A couch coop,fast paced, twin stick shooter" ,"img/projects/battlemayhem/battleMayhem.jpg",
     `
     <div class="paragraph">
      <strong>Battle M.A.Y.H.E.M</strong> is a fast paced couch multiplayer game where you fight against your friends through the use of various weapons and powerups. This  game was made by 2 people over a span of 4 months
@@ -18,8 +18,8 @@ export default [
         <ul>
         <li>Multiplayer System</li>
         <li>Vehicle Physics</li>
+        <li>CRAZY Visual Effects ✨</li>
         <li>Weapons</li>
-        <li>Visual Effects</li>
         <li>Arenas</li>
         </ul>
     </div>
