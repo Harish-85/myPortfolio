@@ -74,8 +74,8 @@ h1.dialog-title {
 }
 
 .dialog-content {
-  background-color: #fcfcfc;
-  color: #696969;
+  background-color: #353535;
+  color: #dfdfdf;
 }
 .dialog-close {
   position: absolute;
