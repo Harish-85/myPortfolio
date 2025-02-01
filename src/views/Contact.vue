@@ -12,7 +12,7 @@
         <a href="mailto:harishneethi@email.com" target="_blank">harishneethi@email.com</a>
       </li>
       <li>
-        <i class="fa fa-envelope-o fa-lg fa-fw"></i>
+        <i class="fa fa-phone fa-lg fa-fw"></i>
         <a href="tel:+919514366924" target="_blank">+91 95143 66924</a>
       </li>
       <li>

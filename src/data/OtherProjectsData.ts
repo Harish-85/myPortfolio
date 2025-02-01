@@ -2,21 +2,8 @@ import ProjectData from '@/data/ProjectData.ts'
 
 export default [
 
-    new ProjectData("project-7", "Opengl Mesh Loader", "img/projects/opengl/monke.png", `
-    <div class="paragraph">
-      In this <strong>Opengl Mesh loader</strong> . I have created a simple mesh loader using opengl and c++ and assimp and managed to import the default blender monkey into the scene.This also has a simple dot lighting .
-      <br/>
-            </div>
-            <div class="paragraph">
-            <img class="pc-screenshot" src="img/projects/opengl/monke.png" alt="Opengl Mesh Loader Screenshot" />
-                
-            <div class="paragraph center">
-              <a href="https://github.com/Harish-85/openglLearning" target="_blank"> Github Link</a>
-          </div>
 
-
-    `, "#000000", false, false),
-    new ProjectData("project-8", "Car Physics & Destruction ", "img/projects/thesis/image8.gif", `
+    new ProjectData("project-8", "Car Physics & Destruction ","Arcade wheel physics and dynamic mesh deformation" ,"img/projects/thesis/image8.gif", `
     <div class="paragraph">
                 This is a thesis I wrote on how to make a realtime car destruction system in unity using JOBS system.
                 The car physics system that is used is also a custom wheel collider system that I have created.
@@ -42,8 +29,22 @@ export default [
 
            
 
-            `),
-    new ProjectData("project-9", "Fluid Sim", "img/projects/fluidSim/fscover.png", `
+            `, "#000000", true, true,"img/unitylogo.png",20,20),
+    new ProjectData("project-7", "Opengl Mesh Loader","3d model importer using Assimp", "img/projects/opengl/monke.png", `
+    <div class="paragraph">
+      In this <strong>Opengl Mesh loader</strong> . I have created a simple mesh loader using opengl and c++ and assimp and managed to import the default blender monkey into the scene.This also has a simple dot lighting .
+      <br/>
+            </div>
+            <div class="paragraph">
+            <img class="pc-screenshot" src="img/projects/opengl/monke.png" alt="Opengl Mesh Loader Screenshot" />
+                
+            <div class="paragraph center">
+              <a href="https://github.com/Harish-85/openglLearning" target="_blank"> Github Link</a>
+          </div>
+
+
+    `, "#000000", false, false,"img/openglLogo.png",40,30),
+    new ProjectData("project-9", "Fluid Sim","Particle based fluid sim", "img/projects/fluidSim/fscover.png", `
     
         
         <div class="paragraph">
@@ -57,7 +58,7 @@ export default [
     
        
 
-          `), new ProjectData("project-10", "ASCII Renderer", "img/projects/Ascii/img1.png", `
+          `), new ProjectData("project-10", "ASCII Renderer","A shader that converts the image into text" ,"img/projects/Ascii/img1.png", `
     
         
         <div class="paragraph">

@@ -11,12 +11,13 @@
             </div>
             <div class="title-bar" :style="{ 'background-color': project.accentColor + 'DD' }">
                 <div class="title-text">
-                  {{ project.name}}
+                  <b>{{ project.name}}</b> <br>
+                  {{ project.description }}
                 </div>
 
                 <div class="icon">
 
-                  <img :src="project.engineIcon" style="height: 20px; width: 20px; padding: 5px;" alt="test"/>
+                  <img :src="project.engineIcon" :style="{ height: project.height + 'px', width: project.width + 'px', padding: '5px' }" alt="test"/>
 
                 </div>
               </div>
@@ -87,11 +88,13 @@ export default Vue.extend({
   height: 100%;
   width: 100%;
   transition: all 0.2s;
+  animation-play-state: paused;
 }
 .project-item-image:hover {
   -webkit-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
+  animation-play-state: running;
 }
 
 .project-item:hover {
@@ -102,7 +105,7 @@ filter: brightness(120%);
   position: absolute;
   bottom: 0px;
   width: 100%;
-  height: 50px;
+  height: 70px;
   background-color: #222222;
 }
 
@@ -123,7 +126,7 @@ filter: brightness(120%);
   .projects-list {
     max-width: 900px;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
     grid-auto-rows: minmax(250px, auto);
   }
