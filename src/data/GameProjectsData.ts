@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Battle M.A.Y.H.E.M","A couch coop,fast paced, twin stick shooter" ,"img/projects/battlemayhem/battleMayhem.jpg",
+    new ProjectData("project-1", "Battle M.A.Y.H.E.M","A couch coop,fast paced, twin stick shooter" ,"img/projects/battlemayhem/mainmenu.png",
     `
     <div class="paragraph">
      <strong>Battle M.A.Y.H.E.M</strong> is a fast paced couch multiplayer game where you fight against your friends through the use of various weapons and powerups. This  game was made by 2 people over a span of 4 months
@@ -32,7 +32,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/battlemayhem/arena2.jpg" alt="Poster image" />
         <img class="pc-screenshot" src="img/projects/battlemayhem/tornado.png" alt="Poster image" />
     </div>
-    `, "#000000", true),
+    `, "#000000", false,true),
     new ProjectData("project-2", "Neon Rider","Made a audio visualizer with VFX graph" ,"img/projects/NeonRider/img1.png", `
     <div class="paragraph">
         <strong>Neon Rider</strong> is a small game that was made in 48 hours for a game jam. Here I was experimenting with vfx graph and made an audio visualizer that reacts to the music in the background.
@@ -65,7 +65,7 @@ export default [
     </div>
     `, "#000000"),
 
-    new ProjectData("project-5", "Time Bound","Time travel puzzle game made in unreal", "img/projects/Timebound/img2.png", `
+    new ProjectData("project-5", "Time Bound","Time travel puzzle game made in unreal", "img/projects/Timebound/gameplay.gif", `
     <div class="paragraph">
         <strong>Time Bound</strong> is a portal inspired puzzle game where you can travel between the past, present and future to solve puzzles. It is made in the Unreal engine by a team of 3.
        

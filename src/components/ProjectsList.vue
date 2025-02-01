@@ -8,11 +8,13 @@
               class="project-item"
               :class="{ 'wide': project.isWide, 'high': project.isHigh }">
             <div class="project-item-image" :style="{ 'background-image': 'url(' + project.iconUrl + ')' }">
+              <!-- play a video bm2.mp4-->
             </div>
+
             <div class="title-bar" :style="{ 'background-color': project.accentColor + 'DD' }">
                 <div class="title-text">
                   <b>{{ project.name}}</b> <br>
-                  {{ project.description }}
+                  <font size = "2">{{ project.description }}</font>
                 </div>
 
                 <div class="icon">
@@ -97,6 +99,7 @@ export default Vue.extend({
   animation-play-state: running;
 }
 
+
 .project-item:hover {
 filter: brightness(120%);
 }
@@ -124,7 +127,7 @@ filter: brightness(120%);
 
 @media only screen and (min-width: 620px){
   .projects-list {
-    max-width: 900px;
+    max-width: 700px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
@@ -133,12 +136,14 @@ filter: brightness(120%);
 
   .project-item {
     margin: 0px;
+    min-height: 300px;
     height: 100%;
     width: 100%;
   }
 
   .wide {
     grid-column-end: span 2;
+    min-height: 500px;
   }
   .high {
     grid-row-end: span 2;

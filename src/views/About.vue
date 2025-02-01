@@ -1,5 +1,5 @@
 <template>
-  <div style="margin-bottom: 80px;">
+  <div style="margin-bottom: 80px;" >
     <h1>Hello!</h1>
 
     <div class="paragraph">
