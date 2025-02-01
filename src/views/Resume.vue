@@ -6,13 +6,12 @@
       I'm <strong>Harish N</strong>, game developer with experience in C# and Unity. I have a passion for creating unique game mechanics and I'm always looking for new challenges.
       <br />I've also worked on Shaders and VFX for games. I'm a quick learner and I'm always looking to improve my skills.
       <br />
-      <br />I'm currently looking for new opportunities. If you think I could be a good fit for your team, feel free to
+      <br />I'm always open to connect with other developers. So feel free to
       <router-link to="/contact">contact me</router-link>.
       <br />
-      <br />Besides game development, I also work on non-game projects
 
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="img/Resume.pdf" target="_blank" download="img/resume"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
+        <a class="download-link" href="img/Resume.pdf" target="_blank" download="img/resume"><i class="fa fa-download fa-lg fa-fw"></i> Download Resume as PDF</a>
         <div style="clear:both"></div>
       </div>
     </div>
