@@ -62,7 +62,7 @@ export default [
     
         
         <div class="paragraph">
-        <strong>ASCII Renderer</strong> is a fully gpu based image effect that converts the image into ascii characters. This works by first pixelatingn the image and then using a look up texture to find the corresponding ascii character based on luminance.
+        <strong>ASCII Renderer</strong> is a fully gpu based image effect that converts the image into ascii characters. This works by first pixelating the image and then using a look-up texture to find the corresponding ascii character based on luminance.
         
         <div class="paragraph">
             <div class="paragraph center">

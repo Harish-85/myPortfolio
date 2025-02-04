@@ -6,7 +6,7 @@
       I'm <strong>Harish N</strong>, game developer with experience in C# and Unity. I have a passion for creating unique game mechanics and I'm always looking for new challenges.
       <br />I've also worked on Shaders and VFX for games. I'm a quick learner and I'm always looking to improve my skills.
       <br />
-      <br />I'm always open to connect with other developers. So feel free to
+      <br />I'm always open to connect with other from the industry. So feel free to
       <router-link to="/contact">contact me</router-link>.
       <br />
 
