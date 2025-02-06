@@ -119,14 +119,14 @@ export default [
     </div>
     
     <div class = "paragraph center">
-    <iframe frameborder="0" src="https://itch.io/embed/2689547?bg_color=1b1b1b&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=333333" width="552" height="167"><a href="https://unknown-coder.itch.io/neon-ballz">NEON BALLZ by Unknown_Coder, TheUnknownAX</a></iframe>
+    <iframe frameborder="0" src="https://itch.io/embed/2689547?bg_color=1b1b1b&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=333333" width="100%" height="167"><a href="https://unknown-coder.itch.io/neon-ballz">NEON BALLZ by Unknown_Coder, TheUnknownAX</a></iframe>
     </div>
     
 
     <div class="paragraph center">
-        <img class="screenshot" src="img/projects/NeonBallz/img1.png" alt="neon ballz screen shot 1" />
-        <img class="screenshot" src="img/projects/NeonBallz/img2.png" alt="neon ballz screen shot 1" />
-        <img class="screenshot" src="img/projects/NeonBallz/img3.png" alt="neon ballz screen shot 1" />
+        <img class="phone-screenshot" src="img/projects/NeonBallz/img1.png" alt="neon ballz screen shot 1" />
+        <img class="phone-screenshot" src="img/projects/NeonBallz/img2.png" alt="neon ballz screen shot 1" />
+        <img class="phone-screenshot" src="img/projects/NeonBallz/img3.png" alt="neon ballz screen shot 1" />
         
     </div>
     `, "#000000"),
