@@ -13,7 +13,7 @@ export default [
               <a href="https://github.com/Harish-85/Realtime-Car-Destruction-Unity/blob/main/Thesis%20with%20jobs.pdf" target="_blank"> Thesis Link</a><br>
               Source code available on <a href="https://github.com/Harish-85/Realtime-Car-Destruction-Unity" target="_blank">GitHub</a>.
           </div>
-            <div class="paragraph center">
+            <div class="paragraph center" >
                 <img class="pc-screenshot" src="img/projects/thesis/image8.gif" alt="Car destruction demonstration" />
                 
             </div>
@@ -52,7 +52,7 @@ export default [
         
         
         <div class="paragraph center">
-        <video width="50%" height="50%" controls>
+        <video width="80%" height="80%" controls>
             <source src = "img/projects/fluidSim/fluid sim.mp4" type="video/mp4">
         </div>
     
@@ -66,7 +66,7 @@ export default [
         
         <div class="paragraph">
             <div class="paragraph center">
-            <video width="50%" height="50%" controls>
+            <video width="80%" height="80%" controls>
             <source src = "img/projects/Ascii/vid.mp4" type="video/mp4">
             </div>
             <img class="pc-screenshot" src="img/projects/Ascii/cover.png" alt="Ascii image screenshot" />
@@ -76,6 +76,22 @@ export default [
                 
             
         
+      
+       
+
+          `),new ProjectData("project-11", "Interior Parallax","Spiderman inspired Interior parallax" ,"img/projects/InteriorParallax/cover.png", `
+    
+        
+        <div class="paragraph">
+        <strong>Interior Parallax</strong> fakes a 3d effect by using a parallax effect on the interior of a building without actually modelling the interior.
+        
+        
+        <div class="paragraph center">
+        <video width="80%" height="80%" controls>
+            <source src = "img/projects/InteriorParallax/InteriorParallaxShader.mp4" type="video/mp4">
+        </div>
+    
+       
       
        
 
