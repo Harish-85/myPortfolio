@@ -12,7 +12,7 @@
 
 
       <h2 style="margin-bottom: -2px">Skills</h2>
-      <div style="display: flex; line-height: initial" >
+      <div style="display: flex; line-height: initial; font-size: smaller">
       <div class="skill-set">
         <h3>UNITY</h3>
         <SkillRate name="Unity C# Programming"  />
