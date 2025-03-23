@@ -49,9 +49,10 @@
 
       <div class="skill-set">
         <h3>PROGRAMMING</h3>
-        <SkillRate name="C#  C++" />
-        <SkillRate name="Python HLSL" />
-
+        <SkillRate name="C#"/>
+        <SkillRate name="C++"/>
+        <SkillRate name="HLSL"/>
+        <SkillRate name="Python"/>
       </div>
       <div class="skill-set">
         <h3>SOFTWARE</h3>

@@ -41,6 +41,7 @@ export default Vue.extend({
   float: left;
   width: 80px;
   padding-top:11px;
+  margin-left: 1em;
 }
 
 .circle {

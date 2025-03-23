@@ -7,9 +7,38 @@
         I'm <strong>Harish N</strong>, a Game developer with expertise in <b>Unity C# Programming, Shaders, and Realtime VFX.</b>
         I have been working in game development for the past 4 years and have worked on multiple projects in the past.
       </div>
-
       <div style="margin-top: 20px;">So far I've worked on 3 internships and several personal projects</div>
       <div style="margin-top: 20px;"><router-link to="/contact"><h3>CONTACT ME</h3>  </router-link></div>
+
+
+      <h2 style="margin-bottom: -2px">Skills</h2>
+      <div style="display: flex; line-height: initial" >
+      <div class="skill-set">
+        <h3>UNITY</h3>
+        <SkillRate name="Unity C# Programming"  />
+        <SkillRate name="Unity Shaders"  />
+        <SkillRate name="Realtime VFX"  />
+
+      </div>
+
+      <div class="skill-set">
+        <h3>PROGRAMMING</h3>
+        <SkillRate name="C#"/>
+        <SkillRate name="C++"/>
+        <SkillRate name="HLSL"/>
+        <SkillRate name="Python"/>
+      </div>
+      <div class="skill-set">
+        <h3>SOFTWARE</h3>
+        <SkillRate name="Unity" />
+        <SkillRate name="Rider" />
+        <SkillRate name="Github" />
+        <SkillRate name="Blender" />
+
+      </div>
+      <div style="clear:both" />
+      </div>
+
 
 
     </div>
@@ -74,9 +103,11 @@ import Vue from "vue";
 import ProjectsList from "@/components/ProjectsList.vue";
 import gameProjectsData from "@/data/GameProjectsData.ts";
 import otherProjectsData from "@/data/OtherProjectsData.ts";
+import SkillRate from "@/components/SkillRate.vue";
 export default Vue.extend({
   name: "GameProjects",
   components: {
+    SkillRate,
     ProjectsList,
   },
   data: function () {
