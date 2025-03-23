@@ -2,6 +2,8 @@
   <div style="margin-bottom: 80px;" >
     <h1>Hello! 👋</h1>
 
+
+
     <div class="paragraph">
       <div>
         I'm <strong>Harish N</strong>, a Game developer with expertise in <b>Unity C# Programming, Shaders, and Realtime VFX.</b>
@@ -12,7 +14,7 @@
 
 
       <h2 style="margin-bottom: -2px">Skills</h2>
-      <div style="display: flex; line-height: initial; font-size: smaller">
+      <div style="display: grid;grid-template-columns: repeat( auto-fill, minmax(200px, 1fr) );">
       <div class="skill-set">
         <h3>UNITY</h3>
         <SkillRate name="Unity C# Programming"  />
