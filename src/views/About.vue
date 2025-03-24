@@ -6,14 +6,13 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>Harish N</strong>, a Game developer with expertise in <strong>Unity C# Programming, Shaders, and Realtime VFX.</strong>
+        I'm <strong>Harish N</strong>, a <strong>Game developer</strong> with expertise in <strong>Unity C# Programming, Shaders, and Realtime VFX.</strong>
         I have been working in game development for the past <strong>4 years</strong> and have worked on multiple projects in the past.
       </div>
       <div style="margin-top: 20px;">So far I've worked on 3 internships and several personal projects</div>
       <div style="margin-top: 20px;"><router-link to="/contact"><h3>CONTACT ME</h3>  </router-link></div>
-
-
-      <h2 style="margin-bottom: -2px">Skills</h2>
+      
+      <h2 style="margin-bottom: -2px; text-align: center ; margin-right: 100px" >Skills</h2>
       <div style="display: grid;grid-template-columns: repeat( auto-fill, minmax(200px, 1fr) );">
       <div class="skill-set">
         <h3>UNITY</h3>
@@ -42,6 +41,7 @@
       </div>
 
 
+    <br>
 
     </div>
 
@@ -57,6 +57,7 @@
     <div style="margin-bottom: 5px; margin-top: -50px">
       These are some of the games I've worked on in the past.
     </div>
+
 
     <ProjectsList v-bind:projects="projects" />
 
