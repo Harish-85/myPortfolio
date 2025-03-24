@@ -6,8 +6,8 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>Harish N</strong>, a Game developer with expertise in <b>Unity C# Programming, Shaders, and Realtime VFX.</b>
-        I have been working in game development for the past 4 years and have worked on multiple projects in the past.
+        I'm <strong>Harish N</strong>, a Game developer with expertise in <strong>Unity C# Programming, Shaders, and Realtime VFX.</strong>
+        I have been working in game development for the past <strong>4 years</strong> and have worked on multiple projects in the past.
       </div>
       <div style="margin-top: 20px;">So far I've worked on 3 internships and several personal projects</div>
       <div style="margin-top: 20px;"><router-link to="/contact"><h3>CONTACT ME</h3>  </router-link></div>
