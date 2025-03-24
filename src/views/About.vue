@@ -1,9 +1,6 @@
 <template>
   <div style="margin-bottom: 80px;" >
     <h1>Hello! 👋</h1>
-
-
-
     <div class="paragraph">
       <div>
         I'm <strong>Harish N</strong>, a <strong>Game developer</strong> with expertise in <strong>Unity C# Programming, Shaders, and Realtime VFX.</strong>
@@ -11,7 +8,7 @@
       </div>
       <div style="margin-top: 20px;">So far I've worked on 3 internships and several personal projects</div>
       <div style="margin-top: 20px;"><router-link to="/contact"><h3>CONTACT ME</h3>  </router-link></div>
-      
+
       <h2 style="margin-bottom: -2px; text-align: center ; margin-right: 100px" >Skills</h2>
       <div style="display: grid;grid-template-columns: repeat( auto-fill, minmax(200px, 1fr) );">
       <div class="skill-set">
