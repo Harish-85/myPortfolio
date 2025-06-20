@@ -29,11 +29,11 @@
       </li>
       <li>
       <h3><strong>GAME DEVELOPER INTERN</strong> <br><i> Qila games</i></h3>
-      <h4>August 2024 - Present</h4>
+      <h4>August 2024 - March 2025</h4>
       </li>
       <li>
       <h3><strong>GAME DEVELOPER</strong> <br><i> Kleanup Games</i></h3>
-      <h4> November 2024 - Present</h4>
+      <h4> April 2025 - Present</h4>
       </li>
       </ul>
 

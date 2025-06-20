@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "serve": "set NODE_OPTIONS=--openssl-legacy-provider &&  vue-cli-service serve",
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider &&  vue-cli-service build"
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider &&  vue-cli-service build",
+    "start": "react-scripts --openssl-legacy-provider start"
   },
   "dependencies": {
     "vue": "^2.6.11",
