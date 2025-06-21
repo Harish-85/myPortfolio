@@ -7,8 +7,11 @@ export default [
      <strong>Battle M.A.Y.H.E.M</strong> is a fast paced couch multiplayer game where you fight against your friends through the use of various weapons and powerups. This  game was made by 2 people over a span of 4 months
      
     </div>
-   
-    <iframe frameborder="0" src="https://itch.io/embed/2935303?dark=true" width="100%" height="167"><a href="https://unknown-coder.itch.io/battle-mayhem">Battle MAYHEM by Unknown_Coder, GGgoutham</a></iframe>
+        <div class="paragraph center">
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/ZM03LZwjw1c" title="Battle Mayhem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+  
+    <iframe frameborder="0" src="https://itch.io/embed/2935303?dark=true" width="200" ><a href="https://unknown-coder.itch.io/battle-mayhem">Battle MAYHEM by Unknown_Coder, GGgoutham</a></iframe>
 
     <div class="paragraph">
         What I worked on:
