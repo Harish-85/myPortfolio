@@ -4,9 +4,12 @@
     <div class="paragraph">
       <div>
         I'm <strong>Harish N</strong>, a <strong>Game developer</strong> with expertise in <strong>Unity C# Programming, Shaders, and Realtime VFX.</strong>
+        I've also been learning how to integrate backend services into games like authentication, leaderboards, and cloud saving etc.
+        </div>
+      <div>
         I have been working in game development for the past <strong>4 years</strong> and have worked on multiple projects in the past.
       </div>
-      <div style="margin-top: 20px;">So far I've worked on 3 internships and several personal projects</div>
+      <div style="margin-top: 20px;">So far I've worked on 2 internships and am currently working as a developer in "Kleanup games" where we are making a arcade, color-mixing shoot-em up called CHROMADI</div>
       <div style="margin-top: 20px;"><router-link to="/contact"><h3>CONTACT ME</h3>  </router-link></div>
 
       <h2 style="margin-bottom: -2px; text-align: center ; margin-right: 100px" >Skills</h2>

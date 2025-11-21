@@ -55,7 +55,8 @@ export default Vue.extend({
       showPopup: false,
       popupTitle: "",
       popupColor: "",
-      popupContent: ""
+      popupContent: "",
+      firstClick: true,
     };
   },
   methods: {
@@ -68,7 +69,28 @@ export default Vue.extend({
       this.popupContent = item.htmlDescription;
       this.showPopup = true;
       window.scrollTo(0,0);
+      this.firstClick = true;
+
+      document.addEventListener("click", this.closePopup);
+
     },
+    closePopup: function( event: MouseEvent) {
+      //ignore the first click that opens the popup
+      if (this.firstClick) {
+        this.firstClick = false;
+        return;
+      }
+
+      if (this.showPopup) {
+        const dialog = document.querySelector(".dialog");
+        if (dialog && !dialog.contains(event.target as Node)) {
+          this.showPopup = false;
+          this.firstClick = true;
+          document.removeEventListener("click", this.closePopup);
+        }
+      }
+
+    }
   },
 });
 </script>

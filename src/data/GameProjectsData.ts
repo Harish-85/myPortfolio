@@ -11,7 +11,6 @@ export default [
         <iframe width="600" height="400" src="https://www.youtube.com/embed/ZM03LZwjw1c" title="Battle Mayhem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   
-    <iframe frameborder="0" src="https://itch.io/embed/2935303?dark=true" width="200" ><a href="https://unknown-coder.itch.io/battle-mayhem">Battle MAYHEM by Unknown_Coder, GGgoutham</a></iframe>
 
     <div class="paragraph">
         What I worked on:
@@ -23,6 +22,7 @@ export default [
         <li>Arenas</li>
         </ul>
     </div>
+    <iframe frameborder="0" src="https://itch.io/embed/2935303?dark=true" width="200" ><a href="https://unknown-coder.itch.io/battle-mayhem">Battle MAYHEM by Unknown_Coder, GGgoutham</a></iframe>
 
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/battlemayhem/mainmenu.png" alt="Poster image" />
@@ -43,11 +43,11 @@ export default [
     </div>
 
     <div class="paragraph">
-        Main features :
+        What I worked on:
         <ul>
         <li>Audio Visualizing VFX graph</li>
         <li>Simple physics based movement</li>
-        <li>Procedural Generation</li>
+        <li>Procedural level Generation</li>
         
         </ul>
     </div>
@@ -72,7 +72,7 @@ export default [
     </div>
     
     <div class="paragraph">
-        My Contributions:
+        What I worked on:
         <ul>
         <li>Created easy-to-use Time Travel System</li>
         <li>Implemented easily extendable interactables like buttons, levers etc</li>
@@ -98,11 +98,11 @@ export default [
     </div>
 
     <div class="paragraph">
-        Main features :
+        What I worked on:
         <ul>
-        <li>Small open world</li>
-        <li>Fully Voiced NPC</li>
-        <li>Hand drawn Pencil style Art</li>
+        <li>Dynamic and reactive dialogue system</li>
+        <li>Dynamic map that reveals as you explore</li>
+        <li>Inventory and shop system</li>
         </ul>
     </div>
 
